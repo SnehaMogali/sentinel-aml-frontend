@@ -1,4 +1,12 @@
-# React + TypeScript + Vite
+# Sentinel AML — Analyst Console (Frontend)
+
+React + TypeScript + Vite frontend for the Sentinel AML analyst console: ingest transactions (manually or via CSV) and review/disposition the resulting alert queue.
+
+## Demo
+
+<video src="docs/demo.mov" controls width="700"></video>
+
+## About this template
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
